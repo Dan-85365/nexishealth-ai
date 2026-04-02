@@ -2,7 +2,7 @@
 "name": "frontend",
 "version": "1.0.0",
 "scripts": {
-"dev": "your-dev-command-here" // e.g., "vite" or "next dev"
+"dev": "vite" // Change to 'next dev' if Next.js, or your framework's command
 },
 "dependencies": {}
 }
