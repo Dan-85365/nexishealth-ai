@@ -2,7 +2,7 @@
 "name": "frontend",
 "version": "1.0.0",
 "scripts": {
-"dev": "vite" // Change to 'next dev' if Next.js, or your framework's command
+"dev": "vite"
 },
 "dependencies": {}
 }
