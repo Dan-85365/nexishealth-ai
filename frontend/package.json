@@ -1,0 +1,8 @@
+{
+"name": "frontend",
+"version": "1.0.0",
+"scripts": {
+"dev": "your-dev-command-here" // e.g., "vite" or "next dev"
+},
+"dependencies": {}
+}
